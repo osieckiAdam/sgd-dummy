@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>AddToCart</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Add to cart</shortDescription>
+        <value>Add to cart CHANGED</value>
+    </labels>
+    <labels>
+        <fullName>Asterisk</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Asterisk</shortDescription>
+        <value>*</value>
+    </labels>
+    <labels>
+        <fullName>Asterisk2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Asterisk2</shortDescription>
+        <value>*2</value>
+    </labels>
+    <labels>
+        <fullName>Asterisk3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Asterisk2</shortDescription>
+        <value>*3</value>
+    </labels>
+    <labels>
+        <fullName>Available_Items</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Available Items</shortDescription>
+        <value>available Items</value>
+    </labels>
+    <labels>
+        <fullName>AverageUsersRating</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Average user&apos;s rating:</shortDescription>
+        <value>Average user&apos;s rating:</value>
+    </labels>
+    <labels>
+        <fullName>BasedOn</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>(based on</shortDescription>
+        <value>/5 (based on</value>
+    </labels>
+    <labels>
+        <fullName>BuyNow</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Buy now</shortDescription>
+        <value>Buy now</value>
+    </labels>
+    <labels>
+        <fullName>By_clicking_on_icon_below</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>By clicking on icon below:</shortDescription>
+        <value>By clicking on icon below:</value>
+    </labels>
+    <labels>
+        <fullName>Cancel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cancel</shortDescription>
+        <value>Cancel</value>
+    </labels>
+    <labels>
+        <fullName>Close</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Close</shortDescription>
+        <value>Close</value>
+    </labels>
+    <labels>
+        <fullName>Close_window</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Close window</shortDescription>
+        <value>Close window</value>
+    </labels>
+    <labels>
+        <fullName>CompanyName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CompanyName</shortDescription>
+        <value>Company Name</value>
+    </labels>
+    <labels>
+        <fullName>Contact</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact</shortDescription>
+        <value>Contact</value>
+    </labels>
+    <labels>
+        <fullName>ContactMeIfAvailable</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact me if available</shortDescription>
+        <value>Contact me if available</value>
+    </labels>
+    <labels>
+        <fullName>Contact_Us</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Contact Us</shortDescription>
+        <value>Contact Us</value>
+    </labels>
+    <labels>
+        <fullName>ContentOfYourCart</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Content of your cart:</shortDescription>
+        <value>Content of your cart:</value>
+    </labels>
+    <labels>
+        <fullName>CurrentlyNoProducts</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CurrentlyNoProducts</shortDescription>
+        <value
+    >Currently there is no products on your subscription list, go to unavailable product page to add it to your subscription</value>
+    </labels>
+    <labels>
+        <fullName>Description</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Description</shortDescription>
+        <value>Description</value>
+    </labels>
+    <labels>
+        <fullName>FirstName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>FirstName</shortDescription>
+        <value>First Name</value>
+    </labels>
+    <labels>
+        <fullName>Home</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Home</shortDescription>
+        <value>Home</value>
+    </labels>
+    <labels>
+        <fullName>LastName</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>LastName</shortDescription>
+        <value>Last Name</value>
+    </labels>
+    <labels>
+        <fullName>ListOfItems</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ListOfItems</shortDescription>
+        <value
+    >List of items, that you subscribe. You will be notified by email when these products will be available:</value>
+    </labels>
+    <labels>
+        <fullName>List_of_found_products</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>List of found products:</shortDescription>
+        <value>List of found products:</value>
+    </labels>
+    <labels>
+        <fullName>Login</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Login</shortDescription>
+        <value>Login</value>
+    </labels>
+    <labels>
+        <fullName>Login_with_Your_Google_account</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Login with Your Google account</shortDescription>
+        <value>Login with Your Google account</value>
+    </labels>
+    <labels>
+        <fullName>MyCart</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My Cart</shortDescription>
+        <value>My Cart</value>
+    </labels>
+    <labels>
+        <fullName>MyComplaints</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My Complaints</shortDescription>
+        <value>My Complaints</value>
+    </labels>
+    <labels>
+        <fullName>MyOrders</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My Orders</shortDescription>
+        <value>My Orders</value>
+    </labels>
+    <labels>
+        <fullName>My_Subscriptions</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My Subscriptions</shortDescription>
+        <value>My Subscriptions</value>
+    </labels>
+    <labels>
+        <fullName>Order</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Order</shortDescription>
+        <value>Order</value>
+    </labels>
+    <labels>
+        <fullName>OrderComments</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OrderComments</shortDescription>
+        <value>Order comments</value>
+    </labels>
+    <labels>
+        <fullName>OrderCommentsDescription</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>OrderCommentsDescription</shortDescription>
+        <value
+    >You can enter here any suggestions and comments about order (eg. suggested hour of delivery)</value>
+    </labels>
+    <labels>
+        <fullName>OrderSummary</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Order summary</shortDescription>
+        <value>Order summary</value>
+    </labels>
+    <labels>
+        <fullName>Phone</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Phone</shortDescription>
+        <value>Phone</value>
+    </labels>
+    <labels>
+        <fullName>Ratings</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>ratings)</shortDescription>
+        <value>ratings)</value>
+    </labels>
+    <labels>
+        <fullName>Save</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Save</shortDescription>
+        <value>Save</value>
+    </labels>
+    <labels>
+        <fullName>Scroll_down_to_contact_form_or</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Scroll down to contact form or</shortDescription>
+        <value>Scroll down to contact form or</value>
+    </labels>
+    <labels>
+        <fullName>ShippingAddress</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shipping Address</shortDescription>
+        <value>Shipping Address</value>
+    </labels>
+    <labels>
+        <fullName>ShippingCity</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shipping City</shortDescription>
+        <value>Shipping City</value>
+    </labels>
+    <labels>
+        <fullName>ShippingCountry</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shipping Country</shortDescription>
+        <value>Shipping Country</value>
+    </labels>
+    <labels>
+        <fullName>ShippingStreet</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shipping Street</shortDescription>
+        <value>Shipping Street</value>
+    </labels>
+    <labels>
+        <fullName>Shipping_Postal_Code</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Shipping Postal Code</shortDescription>
+        <value>Shipping Postal Code</value>
+    </labels>
+    <labels>
+        <fullName>StandardPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Standard Price:</shortDescription>
+        <value>Standard Price:</value>
+    </labels>
+    <labels>
+        <fullName>Thank_you_for_contacting_us</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Thank you for contacting us</shortDescription>
+        <value
+    >Thank you for contacting us. Our sales representative will contact You as soon as possible</value>
+    </labels>
+    <labels>
+        <fullName>TotalPrice</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Total Price:</shortDescription>
+        <value>Total Price:</value>
+    </labels>
+    <labels>
+        <fullName>Welcome_to_this_fantastic_page</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Welcome to this fantastic page</shortDescription>
+        <value>Welcome to this fantastic page</value>
+    </labels>
+    <labels>
+        <fullName>YourShoppingCart</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Your Shopping Cart:</shortDescription>
+        <value>Your Shopping Cart:</value>
+    </labels>
+    <labels>
+        <fullName>equals</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>equals</shortDescription>
+        <value>=</value>
+    </labels>
+    <labels>
+        <fullName>of</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>of</shortDescription>
+        <value>of</value>
+    </labels>
+    <labels>
+        <fullName>typeWarning</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>typeWarning</shortDescription>
+        <value>warning</value>
+    </labels>
+    <labels>
+        <fullName>urlImage</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>urlImage</shortDescription>
+        <value
+    >https://adam-osiecki-dev-ed.lightning.force.com/sfc/servlet.shepherd/version/download/</value>
+    </labels>
+    <labels>
+        <fullName>x</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>x</shortDescription>
+        <value>x</value>
+    </labels>
+</CustomLabels>
