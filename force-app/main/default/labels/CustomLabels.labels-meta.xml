@@ -8,6 +8,13 @@
         <value>Add to cart CHANGED</value>
     </labels>
     <labels>
+        <fullName>NEW_LABEL</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>NEW LABEL</shortDescription>
+        <value>NEW LABEL</value>
+    </labels>
+    <labels>
         <fullName>Asterisk</fullName>
         <language>en_US</language>
         <protected>true</protected>
